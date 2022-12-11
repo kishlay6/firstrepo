@@ -1,7 +1,0 @@
-Hello there!
-
-My First Git doucment.
-
-Thanks
-
-2nd try
